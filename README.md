@@ -9,3 +9,8 @@ Install my-project with
 ```bash
 npm create vite@latest
 ```
+
+## Run Project
+```bash
+npm run dev
+```
